@@ -1,3 +1,5 @@
 /node_modules
 /screenshots/*
 /results/*
+!/results/test.txt
+!/screenshots/test.jpg
